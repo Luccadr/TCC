@@ -1,4 +1,5 @@
-# TCC
+# TCC - Objetivo do Estudo: Operação de FPSO
+
 
 
 Este projeto de TCC tem como objetivo quantificar os riscos associados à operação de uma embarcação de Produção, Armazenamento e Transferência Flutuante (FPSO). O sucesso operacional de um FPSO depende, em grande parte, da capacidade de mitigar riscos de falha de equipamentos através do uso de sensores. Esses sensores são responsáveis por medir uma série de parâmetros dos equipamentos em diferentes configurações de instalação (predefinição 1 e predefinição 2) ao longo do tempo.
